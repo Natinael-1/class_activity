@@ -1,0 +1,1 @@
+This repo contains some simple python scripts I wrote in class as class activity
